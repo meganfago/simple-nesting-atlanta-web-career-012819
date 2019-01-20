@@ -37,7 +37,6 @@ def alan_kay_is_known_for
         }
      }
      programmer_hash[:alan_kay][:known_for]
-     binding.pry
 end
 
 def dennis_ritchies_language
@@ -57,6 +56,7 @@ def dennis_ritchies_language
         }
      }
      programmer_hash[:dennis_ritchie][:languages]
+      binding.pry
 end
 
 def adding_matz
